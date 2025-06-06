@@ -1,4 +1,4 @@
 # ForageProjects
-This is a complete guide to navigate this repository. Its purpose is to simplify the understanding of the repository's contents, all contained in a single folder.
+This is a Complite guide for navigate in this repository. The scope of this files it is a simplified the undertaning of content in a single folder..
 
 
